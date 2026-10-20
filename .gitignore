@@ -1,0 +1,13 @@
+# Compilados y artefactos de construccion
+build/
+dist/
+
+# Configuracion local de NetBeans
+nbproject/private/
+
+# Clases compiladas sueltas
+*.class
+
+# Ficheros de sistema
+.DS_Store
+Thumbs.db
